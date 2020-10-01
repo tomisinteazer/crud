@@ -1,4 +1,4 @@
-# afiliate-crud
+# Crud
 
 ## Project setup
 ```
